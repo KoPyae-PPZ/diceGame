@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: lightslategray;
+}
+
+.player {
+    padding: 0 10% 0 10%;
+}
+
+.gameLayer {
+    margin: 5% auto 5% auto;
+}
+
+.diceImg {
+    padding: 0 4% 0 4%;
+}
+
+.text {
+    color: darkolivegreen;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: 'Architects Daughter', cursive;
+}
+
+#title {
+    font-size: 5rem;
+}
